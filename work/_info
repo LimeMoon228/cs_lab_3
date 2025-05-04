@@ -3,19 +3,35 @@ K3
 13
 cModel Technology
 dC:\altera\91\modelsim_ase\examples
+vdemux_1to4_8bit
+!s100 L^gJ8IF4>^WTY<B6c51AN2
+IS]cn=8dmPIh6eM4]3U3<91
+VMVOjckGNFh2hz?QBHKAUi3
+Z0 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
+w1745690486
+8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
+FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
 vEx2_OR
 ISBEU<RoD5kg`NelOoTJR82
 VWNHOM`LA73V[[m3946K<z1
-Z0 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
+Z4 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
 w1744379711
 8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Ex2_Volodenkov_Volodymyr_OR.v
 FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/Ex2_Volodenkov_Volodymyr_OR.v
 L0 1
-Z1 OV;L;6.5b;42
+R1
 r1
 31
-Z2 !s102 -nocovercells
-Z3 o-work work -nocovercells -O0
+R2
+R3
 n@ex2_@o@r
 !s100 ^f^oQ7bnblcin?WK_J`T63
 !s85 0
@@ -23,7 +39,7 @@ n@ex2_@o@r
 vhalf_add
 IDKHXATF>e_WfmnX0T9kkD2
 VT3N=:RY>F4EPXIhhmNPK81
-Z4 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
+R4
 w1743126616
 8C:\altera\91\modelsim_ase\altera\Volodenkov_lab\files\half_add_lab1.v_
 FC:\altera\91\modelsim_ase\altera\Volodenkov_lab\files\half_add_lab1.v_
@@ -37,7 +53,6 @@ R2
 !s85 0
 !s101 -O0
 vMDNF
-!s100 edALOe[@E<VmnEi6=ON@^1
 I4FgS[jmj12mR@C<j^@]Io3
 V?l2mHkaX7i4IM?K7e5?7Z1
 R4
@@ -47,9 +62,10 @@ FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/MDNF.v
 L0 1
 R1
 r1
-!s85 0
 31
-!s101 -O0
 R2
 R3
 n@m@d@n@f
+!s100 edALOe[@E<VmnEi6=ON@^1
+!s85 0
+!s101 -O0
