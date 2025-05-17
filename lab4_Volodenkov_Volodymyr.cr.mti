@@ -1,1 +1,8 @@
+C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module demux_1to4_8bit
 
+Top level modules:
+	demux_1to4_8bit
+
+} {} {}}

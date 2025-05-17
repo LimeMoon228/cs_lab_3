@@ -3,15 +3,15 @@ K3
 13
 cModel Technology
 dC:\altera\91\modelsim_ase\examples
-vdemux_1to4_8bit
-!s100 L^gJ8IF4>^WTY<B6c51AN2
-IS]cn=8dmPIh6eM4]3U3<91
-VMVOjckGNFh2hz?QBHKAUi3
+vbitsum
+!s100 9ES0>fI]4YBUR5mdzf=[N3
+IL2AanCNUWh<JmGB;Ok_DU1
+Vi9NGmz9LhHK1Bn8hXVK7o2
 Z0 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
-w1745690486
-8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
-FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
-L0 1
+w1747383543
+8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/bitsum.v
+FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/bitsum.v
+L0 15
 Z1 OV;L;6.5b;42
 r1
 !s85 0
@@ -19,10 +19,42 @@ r1
 !s101 -O0
 Z2 !s102 -nocovercells
 Z3 o-work work -nocovercells -O0
+vControl_Dev_Volodenkov
+Imz7VcWOF@7YI@L;c<AgOS3
+V9;@cijTUSMfGZQ96o3lze3
+Z4 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
+w1747376649
+8Volodenkov_test.v
+FVolodenkov_test.v
+L0 1
+R1
+r1
+31
+o-O0
+n@control_@dev_@volodenkov
+!s100 CbYl0=OMZjAj2aUGjHCfN1
+!s85 0
+!s101 -O0
+vdemux_1to4_8bit
+IS]cn=8dmPIh6eM4]3U3<91
+VMVOjckGNFh2hz?QBHKAUi3
+R4
+w1745690486
+8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
+FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_Volodymyr_IO_31_kod.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 L^gJ8IF4>^WTY<B6c51AN2
+!s85 0
+!s101 -O0
 vEx2_OR
 ISBEU<RoD5kg`NelOoTJR82
 VWNHOM`LA73V[[m3946K<z1
-Z4 dC:\altera\91\modelsim_ase\altera\Volodenkov_lab
+R4
 w1744379711
 8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Ex2_Volodenkov_Volodymyr_OR.v
 FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/Ex2_Volodenkov_Volodymyr_OR.v
@@ -67,5 +99,69 @@ R2
 R3
 n@m@d@n@f
 !s100 edALOe[@E<VmnEi6=ON@^1
+!s85 0
+!s101 -O0
+vmy_sum
+I@NnfdjeTY8CoAYa]ehAT:3
+V5:MColN9giVaMz1^<kL:?2
+R4
+w1747384175
+8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/my_sum.v
+FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/my_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 eFii][83jZfHK7gf00V_41
+!s85 0
+!s101 -O0
+vref_sum
+IWFXARbNKdKDABg<;[je:P0
+V9:G:eW28:^mbNn=C?:NMX2
+R4
+w1747384169
+8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/ref_sum.v
+FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/ref_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 N2IYjKTZ@>Rad4dTOVO_R2
+!s85 0
+!s101 -O0
+vtb_Control_Dev_Volodenkov
+IfZcZe_mOF64jdA2V^<BVm3
+VjfbJ7>z0<`U]LUEdb6ME=0
+R4
+w1747378191
+8Testbench_test_Volodenkov.v
+FTestbench_test_Volodenkov.v
+L0 3
+R1
+r1
+31
+o-O0
+ntb_@control_@dev_@volodenkov
+!s100 k<GE^oSo9TNf;iG4HCLSX2
+!s85 0
+!s101 -O0
+vtest_sum
+IZ1eD_fCPlJ]i3k@g<5Xl_3
+V?[S@XOc7;P58OizZje^Po0
+R4
+w1747384171
+8C:/altera/91/modelsim_ase/altera/Volodenkov_lab/test_sum.v
+FC:/altera/91/modelsim_ase/altera/Volodenkov_lab/test_sum.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 PUiHC2]1SD1P[iC0f`z>:1
 !s85 0
 !s101 -O0

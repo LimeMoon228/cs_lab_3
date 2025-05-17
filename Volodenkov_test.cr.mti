@@ -1,0 +1,15 @@
+C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_test.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Volodenkov_test.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Control_Dev_Volodenkov
+
+Top level modules:
+	Control_Dev_Volodenkov
+
+} {} {}} C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Testbench_test_Volodenkov.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/altera/Volodenkov_lab/Testbench_test_Volodenkov.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb_Control_Dev_Volodenkov
+
+Top level modules:
+	tb_Control_Dev_Volodenkov
+
+} {} {}}
